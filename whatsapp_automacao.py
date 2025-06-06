@@ -44,5 +44,5 @@ for linha in pagina_cliente.iter_rows(min_row=2):
     sleep(5)
 
 sys.exit()
-
+# Atividade concluída
     
